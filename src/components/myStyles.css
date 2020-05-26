@@ -1,0 +1,68 @@
+.primary {
+    color: rgb(40, 74, 224)
+}
+
+.secondary{
+    color: rgb(224, 98, 40);
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+}
+
+.font-xl {
+    font-size: 75px;
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive
+}
+
+.font-l {
+    font-size: 65px;
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive
+}
+
+
+
+.nav-link{
+    color: whitesmoke;
+}
+
+.fatima-button {
+    background-color: #106852;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+    font-family: cursive;
+}
+
+.yousuf-button {
+    background-color: rgb(14, 160, 140);
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+    font-family: cursive;
+}
+
+.fatima-message {
+    /* animation-name: example;
+        animation-fill-mode: both;
+        animation-duration: 10s; */
+    color: palevioletred;
+    font-size: 75px;
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive
+}
+
+/* @keyframes example {
+        0%   {background-color: red;}
+        25%  {background-color: yellow;}
+        50%  {background-color: blue;}
+        100% {background-color: green;}
+      } */
